@@ -1,0 +1,23 @@
+{
+  "name": "",
+  "version": "",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+  },
+  "repository": {
+  },
+  "author": "luc.damas@univ-smb.fr",
+  "license": "CC-BY-NC-SA-4.0",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mongodb": "^2.1.4",
+    "socket.io": "^1.4.5",
+    "md5": "^2.1.0"
+  }
+}
+
+
+
+
+
